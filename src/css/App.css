@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.header {
+  background-color: white;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin: 0;
+}
+
+.sized-header {
+  background-color: white;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  margin: 0;
+}
+
+.App-title {
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.no-border {
+    border: none;
+}
+
+.card-container {
+    background: #ededed;
+    height: 300px;
+    padding: 10px;
+    margin: 2px;
+}
